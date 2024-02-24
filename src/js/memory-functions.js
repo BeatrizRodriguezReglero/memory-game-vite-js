@@ -47,7 +47,7 @@ const createCard = imageNumber => {
 	newCard.dataset.id = imageNumber;
 
 	const newImage = document.createElement('img');
-	newImage.src = `./assets/images/${imageNumber}.jpg`;
+	newImage.src = `../assets/images/${imageNumber}.jpg`;
 
 	newCard.append(newImage);
 
