@@ -1,3 +1,6 @@
-import { sayHello } from './demo';
+import { gameBoardElement, playAgainButtonElement } from './dom';
+import { flipCards, playAgain } from './memory-functions';
 
-sayHello();
+gameBoardElement.addEventListener('click', flipCards);
+
+playAgainButtonElement.addEventListener('click', playAgain);
