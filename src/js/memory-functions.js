@@ -1,4 +1,4 @@
-import { allImage, totalCards } from './constants';
+import { MEMORY_IMAGE, allImage, totalCards } from './constants';
 import { gameBoardElement, resultsBoardElement } from './dom';
 let clickedCard;
 let firstClickedCard = null;
@@ -47,7 +47,7 @@ const createCard = imageNumber => {
 	newCard.dataset.id = imageNumber;
 
 	const newImage = document.createElement('img');
-	newImage.src = `./assets/images/5.jpg`;
+	newImage.src = MEMORY_IMAGE[imageNumber];
 
 	newCard.append(newImage);
 
