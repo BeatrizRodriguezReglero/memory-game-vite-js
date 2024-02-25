@@ -4,7 +4,7 @@
 body{
 	width: 100%;
 	height: max-content;
-	background-image: url(../assets/images/agent-background-generic.jpeg);
+	background-image: url(../assets/images/valorant-bg-2.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -27,7 +27,7 @@ body{
     justify-content: center;
     margin: 10px auto;
     border-radius: 10px;
-    border: 2px solid white;
+    
     overflow: hidden;
 }
 .card img{
