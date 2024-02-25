@@ -50,7 +50,7 @@ const createCard = imageNumber => {
 	newImage.src = `./assets/images/${imageNumber}.jpg`;
 
 	newCard.append(newImage);
-
+	console.log(newImage);
 	return newCard;
 };
 
