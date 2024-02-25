@@ -1,19 +1,19 @@
 # Título del proyecto
 
-![Imagen del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/password-generator-vite/main/src/assets/images/password-principal.png)
+![Imagen del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/memory-game-vite-js/main/src/assets/images/memory-inicio.png)
 
 ## Ejemplo en vivo
 
-- [PASSWORD-GENERATOR](https://beatrizrodriguezreglero.github.io/password-generator-vite/)
+- [MEMORY-GAME](https://beatrizrodriguezreglero.github.io/memory-game-vite-js/)
 
 
 ## Descripción 📑
 
-Un generador de contraseñas
+El juego que llevamos jugando desde pequeños, el Memory. 
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-En este proyecto hemos puesto en práctica como localizar los elementos del HTML y generar eventos de escucha
+Este proyecto es un repaso de todo lo dado en este curso. 
 
 ## Tecnologías 🛠
 
@@ -27,7 +27,10 @@ En este proyecto hemos puesto en práctica como localizar los elementos del HTML
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/password-generator-vite/main/src/assets/images/password-hover.png)
+![Captura del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/memory-game-vite-js/main/src/assets/images/memory-inicio2.png)
+![Captura del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/memory-game-vite-js/main/src/assets/images/correct-cards.png)
+![Captura del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/memory-game-vite-js/main/src/assets/images/incorrect-cards.png)
+![Captura del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/memory-game-vite-js/main/src/assets/images/win.png)
 
 
 
